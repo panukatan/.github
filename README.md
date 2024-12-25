@@ -9,4 +9,4 @@ To learn more:
 * Visit our :globe_with_meridians: [website](https://panukatan.io)
 * Follow us on :elephant: <a rel="me" me="nofollow" href="https://mastodon.social/@panukatan">Mastodon</a>
 * See our code in :octocat: [GitHub](https://github.com/panukatan)
-* 
+
